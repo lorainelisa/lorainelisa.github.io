@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>lOCAL MAN ATTACKED BY BEAR ALMOST DIES!</h1>
+<p>Local man attacked by bear!</p>
+<p>The man was in the woods camping find bear inside his camp bear attacks suprisingly the man survived in a turn of events he saved the bear from being put down for what it did.
+<q></q>	<blockquote></blockquote>	<q>I was attacked by the bear when i opend by tent door !</q>	<strong></strong>
+</body>
+</html>
